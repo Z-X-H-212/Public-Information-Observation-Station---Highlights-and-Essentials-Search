@@ -4,7 +4,7 @@
 # ============================================================
 
 # ── 1. 安裝套件 ──────────────────────────────────────────────
-
+pip install -q requests beautifulsoup4 pandas ipywidgets
 # ── 2. 匯入 ──────────────────────────────────────────────────
 import requests
 from bs4 import BeautifulSoup
